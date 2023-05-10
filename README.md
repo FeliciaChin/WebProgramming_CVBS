@@ -1,4 +1,5 @@
-# WebProgramming_CVBS
+# SECV 1223: Web Programming 
+# School of Computing, Faculty of Engineering
 # Covid-19 Vaccination Booking System (CVBS)
 
 Lecturer: Dr Mohd Shahizan Bin Othman
