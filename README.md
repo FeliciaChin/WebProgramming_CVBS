@@ -5,10 +5,10 @@
 Lecturer: Dr Mohd Shahizan Bin Othman
 
 Prepared by: Group 1
-Felicia Chin Hui Fen A20EC0037
-Goh Yitian A20EC0038
-Gui Yu Xuan A20EC0039
-Phang Cheng Yi A20EC0131
+1. Felicia Chin Hui Fen A20EC0037
+2. Goh Yitian A20EC0038
+3. Gui Yu Xuan A20EC0039
+4. Phang Cheng Yi A20EC0131
 
 
 ## **Overview:**
